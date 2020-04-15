@@ -49,3 +49,12 @@ ul.header li a{
 .content li{
   margin-bottom: 10px;
 }
+
+p{
+  text-align: justify;
+}
+
+.gambar {
+  width: 50px;
+  height: auto;
+}

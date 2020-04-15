@@ -5,8 +5,8 @@ class Contact extends Component {
     return (
       <div>
         <h2>Contact</h2>
-        <p>Email: info@email.com<br/>
-        Phone : 0909090909
+        <p>telegram : t.me/rakhmanWahid<br/>
+        Phone : 14045
         </p>
       </div>
     );
